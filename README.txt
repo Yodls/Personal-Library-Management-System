@@ -41,7 +41,7 @@ Features Implemented:
 - Input validation with error checking.
 ___________________________________________________________________________________________________________________________
 Known Issues:
-- Input validation could be more robust errors.
+- Input validation could be more robust for errors.
 - Genre tyoes for fiction vs. non-fiction is very basic and provides little information.
 ___________________________________________________________________________________________________________________________
 References:
